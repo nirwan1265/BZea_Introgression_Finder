@@ -1,4 +1,4 @@
-Lines,DTS,DTA,PH,EH,EN,BW,BL,SL,SPAD1,SPAD2,ST,StPu,StPi,Kinki,Prolif,NBR,location,race,elevation,latitude,longitude,country,state,county
+Lines,Days_to_silking,Days_to_anthesis,plant_height,EH,EN,BW,BL,SL,SPAD1,SPAD2,ST,StPu,StPi,Kinki,Prolif,NBR,location,race,elevation,latitude,longitude,country,state,county
 B73,7/3/23,7/3/23,238,74,2,NA,NA,NA,NA,NA,N,N,N,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 B73,7/8/23,7/3/23,185,70,2,NA,NA,NA,NA,NA,N,N,N,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
 B73,7/1/23,7/1/23,190,64,2,NA,NA,NA,NA,NA,N,N,N,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
